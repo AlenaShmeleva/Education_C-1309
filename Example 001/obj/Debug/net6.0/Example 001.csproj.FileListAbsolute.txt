@@ -1,0 +1,15 @@
+C:\Users\Алёна\Desktop\Education_C-1309\Example 001\bin\Debug\net6.0\Example 001.exe
+C:\Users\Алёна\Desktop\Education_C-1309\Example 001\bin\Debug\net6.0\Example 001.deps.json
+C:\Users\Алёна\Desktop\Education_C-1309\Example 001\bin\Debug\net6.0\Example 001.runtimeconfig.json
+C:\Users\Алёна\Desktop\Education_C-1309\Example 001\bin\Debug\net6.0\Example 001.dll
+C:\Users\Алёна\Desktop\Education_C-1309\Example 001\bin\Debug\net6.0\ref\Example 001.dll
+C:\Users\Алёна\Desktop\Education_C-1309\Example 001\bin\Debug\net6.0\Example 001.pdb
+C:\Users\Алёна\Desktop\Education_C-1309\Example 001\obj\Debug\net6.0\Example 001.csproj.AssemblyReference.cache
+C:\Users\Алёна\Desktop\Education_C-1309\Example 001\obj\Debug\net6.0\Example 001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алёна\Desktop\Education_C-1309\Example 001\obj\Debug\net6.0\Example 001.AssemblyInfoInputs.cache
+C:\Users\Алёна\Desktop\Education_C-1309\Example 001\obj\Debug\net6.0\Example 001.AssemblyInfo.cs
+C:\Users\Алёна\Desktop\Education_C-1309\Example 001\obj\Debug\net6.0\Example 001.csproj.CoreCompileInputs.cache
+C:\Users\Алёна\Desktop\Education_C-1309\Example 001\obj\Debug\net6.0\Example 001.dll
+C:\Users\Алёна\Desktop\Education_C-1309\Example 001\obj\Debug\net6.0\ref\Example 001.dll
+C:\Users\Алёна\Desktop\Education_C-1309\Example 001\obj\Debug\net6.0\Example 001.pdb
+C:\Users\Алёна\Desktop\Education_C-1309\Example 001\obj\Debug\net6.0\Example 001.genruntimeconfig.cache
